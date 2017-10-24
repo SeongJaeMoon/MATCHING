@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "TwelveHours",
+    "icon": "./visual_designs/icon/upload.png",
+    "version": "1.0.0",
+    "slug": "seongjae.m@gmail.com",
+    "sdkVersion": "21.0.0",
+    "ios": {
+      "bundleIdentifier": "app.cap.matching"
+    },
+    "android": {
+      "package": "app.cap.matching"
+    }
+   }
+  }
+}
