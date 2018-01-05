@@ -1,6 +1,7 @@
 {
   "name": "TwelveHours",
   "version": "0.1.0",
+  "description": "Meetup at the 12pm",
   "private": true,
   "devDependencies": {
     "jest-expo": "^21.0.2",
@@ -31,6 +32,8 @@
     "react-redux": "^5.0.6",
     "redux": "^3.7.2",
     "redux-storage": "^4.0.1",
-    "redux-storage-engine-reactnativeasyncstorage": "^1.0.1"
+    "redux-storage-engine-reactnativeasyncstorage": "^1.0.1",
+    "react-native-facebook-login": ">=1.4.0",
+    "react-native-google-sign-in": ">=0.0.8"
   }
 }
